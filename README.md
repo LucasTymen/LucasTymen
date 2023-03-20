@@ -1,8 +1,4 @@
- __,    _, _,  ____,   ____, ____,    ____,  _  _,  __, _, ____,  _,  _,
-(-|    (-|  \ (-/     (-/_| (-(__    (-|    (-\_/  (-|\/| (-|_,  (-|\ | 
- _|__,  _|__/  _\__,  _/  |, ____)    _|,     _|,   _| _|, _|__,  _| \|,
-(      (      (      (      (        (       (     (      (      (      
-
+Hi !
 - 👀 I’m interested in coding and design graphic stuf.
 - i have been formed on Ruby On Rails, and curently learning Node JS and Python.
 - my project, after the course i'm about to initiate to become a full stack developper, is to learn python and python- objects to combine it with Blender and Unreal engine
